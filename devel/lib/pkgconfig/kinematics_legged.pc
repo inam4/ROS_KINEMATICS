@@ -1,0 +1,8 @@
+prefix=/home/inam/Desktop/ros_legged/four_legged/devel
+
+Name: kinematics_legged
+Description: Description of kinematics_legged
+Version: 0.0.0
+Cflags: -I/home/inam/Desktop/ros_legged/four_legged/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

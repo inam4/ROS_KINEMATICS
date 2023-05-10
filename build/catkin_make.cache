@@ -1,0 +1,2 @@
+kinematics_legged
+-DCATKIN_DEVEL_PREFIX=/home/inam/Desktop/ros_legged/four_legged/devel -DCMAKE_INSTALL_PREFIX=/home/inam/Desktop/ros_legged/four_legged/install -G Unix Makefiles
